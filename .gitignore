@@ -2,6 +2,8 @@
 _*
 .buildinfo
 .doctrees
+/objects.inv
+/searchindex.js
 
 # generated files
 *.epub
