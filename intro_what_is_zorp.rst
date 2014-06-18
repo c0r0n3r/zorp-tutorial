@@ -143,4 +143,4 @@ License
 * *libzorpll* is licensed under `LGPL 2.0 <http://www.gnu.org/licenses/lgpl-2.0.html>`_
 * *kZorp* is licensed under `GPL 2.0 <http://www.gnu.org/licenses/gpl-2.0.html>`_
 
-It must be noted that the *Zorp* is `dual-licensed <http://en.wikipedia.org/wiki/Multi-licensing>`_, where *Zorp*/*Zorp GPL* is the open source version and *Zorp Professional* is the proprietary one with some extra features and proxies.
+It must be noted that the *Zorp* is `dual-licensed <http://en.wikipedia.org/wiki/Multi-licensing>`_ by the main developer `BalaBit IT Security <http://www.balabit.com>`_,  where *Zorp*/*Zorp GPL* is the open source version and *Zorp Professional* is the proprietary one with some extra features and proxies.
