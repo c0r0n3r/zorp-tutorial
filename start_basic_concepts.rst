@@ -130,7 +130,7 @@ As it can be seen multiple conditions can be defined, so the "who" and the "what
 Conditions
 """"""""""
 
-First of all list the possible conditions parameters of a *Rule*. As you can see there are 8 different type of conditions, which can be set independently from each other. If more the one condition is given the rule matches only if the logical conjunction of the conditions matches. If there is more than one value in a specific condition there is logical disjunction between them.
+First of all list the possible conditions parameters of a *Rule*. As you can see there are 8 different type of conditions, which can be set independently from each other. If more than one condition is given the rule matches only if the logical conjunction of the conditions matches. If there is more than one value in a specific condition there is logical disjunction between them.
 
 .. _condition list:
 
